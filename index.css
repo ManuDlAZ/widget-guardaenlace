@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(98, 98, 228);
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+
+button {
+    color: rgb(212, 233, 25);
+    background-color: rgb(98, 98, 228);
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 1px solid rgb(98, 98, 228);
+}
+
+#borra2 {
+    background-color: white;
+    color: rgb(98, 98, 228);
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: rgb(98, 98, 228) ;
+
+}
